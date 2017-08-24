@@ -1,0 +1,6 @@
+the university network user sent an email to sam saying to inform him that the network user will expire in 24 hours
+and to follow a website to change the password,which is myuniversity.changepassword.
+Sam knows that The user is redirected to myuniversity.edurenewal.com, a bogus page appearing exactly like the real renewal page, 
+where both new and existing passwords are requested. 
+The attacker, monitoring the page, hijacks the original password to gain access to secured areas on the university network.
+sam knows this from having a science computuer class.he ends up deleting the emailand goes to the school for the info on his account.
